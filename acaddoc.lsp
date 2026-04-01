@@ -1,0 +1,16 @@
+(defun load-module (filename)
+  (if (findfile filename)
+    (load filename)
+    (princ (strcat "\nWarning: " filename " not found"))
+  )
+)
+
+(load-module "globals.lsp")
+(load-module "settings.lsp")
+(load-module "utilities.lsp")
+(load-module "cmd_magi.lsp")
+(load-module "cmd_xref.lsp")
+(load-module "cmd_layer.lsp")
+(load-module "cmd_misc.lsp")
+
+(princ)
