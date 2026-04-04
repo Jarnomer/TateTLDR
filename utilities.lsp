@@ -93,31 +93,39 @@
 ;;; the command. All sysvars in overrides are saved and restored.
 
 (defun run-cmd-with-overrides (overrides cmd / saved old-error ss)
-  (setq ss (get-selection))
-  (if (not ss)
-    (princ "\nNothing selected.")
+  ;; Capture implied (PICKFIRST) selection before setvar clears it
+  (setq ss (ssget "_I"))
+
+  (setq saved (mapcar '(lambda (ov) (cons (car ov) (getvar (car ov)))) overrides))
+
+  (setq old-error *error*)
+  (defun *error* (msg)
+    (foreach sv saved (setvar (car sv) (cdr sv)))
+    (setq *error* old-error)
+    (if (not (wcmatch (strcase msg) "*BREAK,*CANCEL*,*EXIT*"))
+      (princ (strcat "\nError: " msg))
+    )
+    (princ)
+  )
+
+  (foreach ov overrides (setvar (car ov) (cdr ov)))
+
+  ;; Clear PICKFIRST so the command won't double-consume it
+  (if ss (sssetfirst nil nil))
+
+  ;; If no pre-selection, prompt interactively (supports all selection modes)
+  (if (not ss) (setq ss (ssget)))
+
+  (if ss
     (progn
-      (setq saved (mapcar '(lambda (ov) (cons (car ov) (getvar (car ov)))) overrides))
-
-      (setq old-error *error*)
-      (defun *error* (msg)
-        (foreach sv saved (setvar (car sv) (cdr sv)))
-        (setq *error* old-error)
-        (if (not (wcmatch (strcase msg) "*BREAK,*CANCEL*,*EXIT*"))
-          (princ (strcat "\nError: " msg))
-        )
-        (princ)
-      )
-
-      (foreach ov overrides (setvar (car ov) (cdr ov)))
-
       (command cmd ss "")
       (wait-for-command)
-
-      (foreach sv saved (setvar (car sv) (cdr sv)))
-      (setq *error* old-error)
     )
+    (princ "\nNothing selected.")
   )
+
+  (foreach sv saved (setvar (car sv) (cdr sv)))
+  (setq *error* old-error)
   (princ)
 )
 
