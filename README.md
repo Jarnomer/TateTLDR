@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<b><i>AutoCAD LISP suite for electrical MEP design workflows.</i></b><br>
+	<b><i>MagiCAD command shortcut suite for electrical design workflow.</i></b><br>
 </p>
 
 <p align="center">
@@ -24,9 +24,7 @@
 
 ## 📝 General
 
-Custom AutoLISP command suite designed for daily electrical MEP drafting with MagiCAD. All frequently used operations are mapped to short keyboard shortcuts organized by keyboard row, eliminating the need for menus, ribbons, or toolbars.
-
-The suite auto-detects drawing type (floor plan, switchboard schematic, or circuit diagram) and routes MagiCAD commands accordingly. Shared utilities handle state guards for system variables, UCS, layers, and error recovery.
+Custom AutoLISP command suite designed for daily drafting with MagiCAD. All frequently used operations are mapped to short keyboard shortcuts organized by keyboard row, eliminating the need for menus, ribbons, or toolbars. Current focus is in electrical design work but other disciplines are planned in future. 
 
 ## 🛠️ Installation
 
@@ -39,14 +37,14 @@ In the same `Files` tab, expand **Trusted Locations** and add the same folder pa
 Restart AutoCAD. On first launch you may be prompted to allow the LISP files to load — select **Always Load** to avoid future prompts.
 
 > [!NOTE]
-> The `acaddoc.lsp` file runs automatically on every drawing open, loading all modules. The `acad.pgp` file registers the keyboard shortcuts on application launch. Both require the folder to be in `Support File Search Path` to take effect.
+> The `acaddoc.lsp` file runs automatically on every drawing open, loading all modules. The `acad.pgp` file registers the keyboard shortcuts on application launch. Both require the folder to be in **Support File Search Path** to take effect.
 
 > [!TIP]
-> Edit `globals.lsp` to configure layer names, comment text heights, drawing unit scale, and xref discipline layers for your project standards.
+> Edit `globals.lsp` to configure variables used by the suite like layer names and unit scaling.
 
 ## ⌨️ Commands
 
-Shortcuts are organized across three keyboard rows. Each primary key triggers common action, with repeated or modified keys accessing related commands.
+Shortcuts are organized across three keyboard rows, each featuring five keys. Primary key triggers common action, with repeated or modified keys accessing related commands.
 
 <h3 align="center">💬 Top Row</h3>
  
