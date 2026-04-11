@@ -59,22 +59,22 @@ Restart AutoCAD. On first launch you may be prompted to allow the LISP files to 
 
 ## ⌨️ Commands
 
-Shortcuts are organized across three keyboard rows. Each primary key triggers the most common action, with repeated or modified keys accessing related commands.
+Shortcuts are organized across three keyboard rows. Each primary key triggers common action, with repeated or modified keys accessing related commands.
 
-### Top Row — Xref, Layer, Annotate, IFC, Voids & Dialogs
-
+<h3 align="center">💬 Top Row</h3>
+ 
 <p align="center">
   <img src="assets/qwert.svg" alt="qwert commands" width="680">
 </p>
-
-### Home Row — Mirror, Rotate, Copy, Move & Erase
-
+ 
+<h3 align="center">🚀 Home Row</h3>
+ 
 <p align="center">
   <img src="assets/asdfg.svg" alt="asdfg commands" width="680">
 </p>
-
-### Bottom Row — Side View, Break, Stretch, Elevation & Devices
-
+ 
+<h3 align="center">🛠️ Bottom Row</h3>
+ 
 <p align="center">
   <img src="assets/zxcvb.svg" alt="zxcvb commands" width="680">
 </p>
