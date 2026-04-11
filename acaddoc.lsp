@@ -12,5 +12,6 @@
 (load-module "cmd_xref.lsp")
 (load-module "cmd_layer.lsp")
 (load-module "cmd_misc.lsp")
+(load-module "cmd_test.lsp")
 
 (princ)

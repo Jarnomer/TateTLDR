@@ -205,18 +205,18 @@
   (princ)
 )
 
+(defun c:TOGGLELAYERCMDMENU ()
+  (toggle-layer-menu)
+  (princ)
+)
+
 (defun c:TOGGLELAYERLOCK ()
   (toggle-layer-lock)
   (princ)
 )
 
-(defun c:CUSTOMLAYERFREEZE ()
+(defun c:SINGLELAYERFREEZE ()
   (custom-layer-freeze)
-  (princ)
-)
-
-(defun c:TOGGLELAYERCMDMENU ()
-  (toggle-layer-menu)
   (princ)
 )
 

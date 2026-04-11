@@ -140,7 +140,7 @@
   (princ)
 )
 
-(defun magicad-build-floor-ifc (/ ifc)
+(defun magicad-ifc-preset (/ ifc)
   (setq ifc (getstring T "Enter IFC Preset Name: "))
   (if (and ifc (/= ifc ""))
     (progn
@@ -151,8 +151,8 @@
   )
 )
 
-(defun c:MAGIBUILDFLOORIFC ()
-  (magicad-build-floor-ifc)
+(defun c:MAGIIFCPRESET ()
+  (magicad-ifc-preset)
   (princ)
 )
 

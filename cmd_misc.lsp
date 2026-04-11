@@ -83,7 +83,6 @@
   (command "_.-PURGE" "_A" "" "_N")   ; all named objects
   (command "_.-PURGE" "_R" "" "_N")   ; regapps
   (command "_.-PURGE" "_Z" "" "_N")   ; zero-length geometry
-  (command "_.AUDIT" "_Y")
 )
 
 (defun erase-last-entity (/ ent)
@@ -98,8 +97,47 @@
   (princ)
 )
 
-(defun c:CREATECOMMENTPLINE ()
-  (create-comment-pline)
+(defun c:COPYTOCLIPBOARDORIGIN (/ ss)
+  (setq ss (get-selection))
+  (if ss
+    (command "_.COPYBASE" "0,0,0" ss "")
+    (princ "\nNothing selected.")
+  )
+  (princ)
+)
+
+(defun c:COPYTOCLIPBOARDSELECT (/ ss)
+  (setq ss (get-selection))
+  (if ss
+    (command "_.COPYBASE" pause ss "")
+    (princ "\nNothing selected.")
+  )
+  (princ)
+)
+
+(defun c:PASTEFROMCLIPBOARDORIGIN ()
+  (command "_.PASTECLIP" "0,0,0")
+  (princ)
+)
+
+(defun c:PASTEFROMCLIPBOARDSELECT ()
+  (command "_.PASTECLIP")
+  (wait-for-command)
+  (princ)
+)
+
+(defun c:MOVEWITHDISPLACEMENT (/ ss zval)
+  (setq ss (get-selection))
+  (if (not ss)
+    (princ "\nNothing selected.")
+    (progn
+      (setq zval (getreal "\nZ displacement: "))
+      (if zval
+        (command "_.MOVE" ss "" (list 0.0 0.0 zval) "")
+        (princ "\nCancelled.")
+      )
+    )
+  )
   (princ)
 )
 
