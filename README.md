@@ -32,19 +32,6 @@ The suite auto-detects drawing type (floor plan, switchboard schematic, or circu
 
 Download the repository as a `.zip` archive from GitHub and extract the files into a dedicated directory.
 
-```
-C:\CAD\LISP\
-├── acaddoc.lsp
-├── acad.pgp
-├── globals.lsp
-├── settings.lsp
-├── utilities.lsp
-├── cmd_magi.lsp
-├── cmd_xref.lsp
-├── cmd_layer.lsp
-└── cmd_misc.lsp
-```
-
 Open AutoCAD and navigate to `Options` → `Files` tab. Expand **Support File Search Path** and add your folder to the **top** of the list. This ensures `acaddoc.lsp` and `acad.pgp` are loaded before any defaults.
 
 In the same `Files` tab, expand **Trusted Locations** and add the same folder path. This prevents security prompts when loading the LISP files.
