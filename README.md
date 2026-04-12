@@ -24,11 +24,11 @@
 
 ## 📝 General
 
-Custom AutoLISP command suite designed for daily drafting with MagiCAD. All frequently used operations are mapped to short keyboard shortcuts organized by keyboard row, eliminating the need for menus, ribbons, or toolbars. Current focus is in electrical design work but other disciplines are planned in future. 
+Custom AutoLISP command suite designed for daily drafting with MagiCAD. Current focus is in electrical design work but other disciplines are planned in future. All frequently used operations are mapped to short keyboard shortcuts organized by keyboard rows, eliminating the need for menus, ribbons, or toolbars.
 
 ## 🛠️ Installation
 
-Download the repository as a `.zip` archive from GitHub and extract the files into a dedicated directory.
+Download the repository as a `.zip` archive from GitHub and extract the `acaddoc.lsp`, `acad.pgp` and `src` folder into a dedicated directory.
 
 Open AutoCAD and navigate to `Options` → `Files` tab. Expand **Support File Search Path** and add your folder to the **top** of the list. This ensures `acaddoc.lsp` and `acad.pgp` are loaded before any defaults.
 
@@ -40,7 +40,7 @@ Restart AutoCAD. On first launch you may be prompted to allow the LISP files to 
 > The `acaddoc.lsp` file runs automatically on every drawing open, loading all modules. The `acad.pgp` file registers the keyboard shortcuts on application launch. Both require the folder to be in **Support File Search Path** to take effect.
 
 > [!TIP]
-> Edit `globals.lsp` to configure variables used by the suite like layer names and unit scaling.
+> Edit `globals.lsp` to configure variables used by the suite like **layer names** and **unit scaling**.
 
 ## ⌨️ Commands
 

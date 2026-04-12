@@ -19,7 +19,7 @@
 ;;; These layers are never frozen by the custom layer-isolate command,
 ;;; regardless of selection. Add any layers you always need to see.
 
-(setq *ISO-ALWAYS-VISIBLE* '("0" *COMMENT-LAYER*))
+(setq *ISO-ALWAYS-VISIBLE* (list "0" *COMMENT-LAYER*))
 
 ;;; ---------------------------------------------------------------------------
 ;;; DRAWING TYPE DETECTION — SENTINEL BLOCKS

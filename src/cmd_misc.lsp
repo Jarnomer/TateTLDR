@@ -141,6 +141,35 @@
   (princ)
 )
 
+(defun erase-comment-in-view (/ vc vs ll ur ss)
+  (setq vc (getvar "VIEWCTR")
+        vs (getvar "VIEWSIZE")
+  )
+  (setq ll (list (- (car vc) (/ (* vs (/ (car (getvar "SCREENSIZE")) (cadr (getvar "SCREENSIZE")))) 2.0))
+                 (- (cadr vc) (/ vs 2.0))))
+  (setq ur (list (+ (car vc) (/ (* vs (/ (car (getvar "SCREENSIZE")) (cadr (getvar "SCREENSIZE")))) 2.0))
+                 (+ (cadr vc) (/ vs 2.0))))
+  (setq ss (ssget "_W" ll ur (list (cons 8 *COMMENT-LAYER*))))
+  (if ss
+    (progn
+      (command "_.ERASE" ss "")
+      (princ (strcat "\nErased " (itoa (sslength ss)) " comment object(s) in view."))
+    )
+    (princ "\nNo comment objects found in current view.")
+  )
+  (princ)
+)
+
+(defun c:CLEARCOMMENTSINVIEW ()
+  (erase-comment-in-view)
+  (princ)
+)
+
+(defun c:CREATECOMMENTPLINE ()
+  (create-comment-pline)
+  (princ)
+)
+
 (defun c:CREATECOMMENTRECTANG ()
   (create-comment-rectangle)
   (princ)
