@@ -1,0 +1,134 @@
+<svg width="100%" viewBox="0 0 680 834" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ═══ Utility ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="4" width="672" height="82" rx="8" fill="#72243E" stroke="#ED93B1" stroke-width="0.5"/>
+    <text x="14" y="19.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#F4C0D1">Utility</text>
+    <line x1="14" y1="33" x2="666" y2="33" stroke="#ED93B1" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="37.0" width="40" height="18" rx="4" fill="#72243E" stroke="#ED93B1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="46.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#ED93B1">Q</text>
+    <text x="64" y="46.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#ED93B1">Enter or exit MagiCAD side view, enforces ortho on.</text>
+    <line x1="14" y1="58" x2="666" y2="58" stroke="#ED93B1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="61.0" width="40" height="18" rx="4" fill="#72243E" stroke="#ED93B1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="70.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#ED93B1">QG</text>
+    <text x="64" y="70.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#ED93B1">Run overkill, purge all unused blocks, layers and regapps.</text>
+  </g>
+
+  <!-- ═══ Layer ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="94" width="672" height="154" rx="8" fill="#12375F" stroke="#5FA0DA" stroke-width="0.5"/>
+    <text x="14" y="109.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#A8CDEE">Layer</text>
+    <line x1="14" y1="123" x2="666" y2="123" stroke="#5FA0DA" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="127.0" width="40" height="18" rx="4" fill="#12375F" stroke="#5FA0DA" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="136.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5FA0DA">W</text>
+    <text x="64" y="136.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5FA0DA">Toggle layer isolation on selected objects' layers.</text>
+    <line x1="14" y1="148" x2="666" y2="148" stroke="#5FA0DA" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="151.0" width="40" height="18" rx="4" fill="#12375F" stroke="#5FA0DA" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="160.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5FA0DA">WW</text>
+    <text x="64" y="160.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5FA0DA">Open or close the layer manager palette.</text>
+    <line x1="14" y1="172" x2="666" y2="172" stroke="#5FA0DA" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="175.0" width="40" height="18" rx="4" fill="#12375F" stroke="#5FA0DA" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="184.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5FA0DA">WT</text>
+    <text x="64" y="184.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5FA0DA">Dynamic menu for match, set current, delete or force layer.</text>
+    <line x1="14" y1="196" x2="666" y2="196" stroke="#5FA0DA" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="199.0" width="40" height="18" rx="4" fill="#12375F" stroke="#5FA0DA" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="208.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5FA0DA">WE</text>
+    <text x="64" y="208.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5FA0DA">Freeze the layer of a picked object.</text>
+    <line x1="14" y1="220" x2="666" y2="220" stroke="#5FA0DA" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="223.0" width="40" height="18" rx="4" fill="#12375F" stroke="#5FA0DA" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="232.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5FA0DA">WWE</text>
+    <text x="64" y="232.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5FA0DA">Toggle lock on the layer of a picked object.</text>
+  </g>
+
+  <!-- ═══ IFC ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="256" width="672" height="154" rx="8" fill="#69340C" stroke="#E49B41" stroke-width="0.5"/>
+    <text x="14" y="271.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#F2C882">IFC</text>
+    <line x1="14" y1="285" x2="666" y2="285" stroke="#E49B41" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="289.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="298.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">E</text>
+    <text x="64" y="298.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Save drawing and build IFC with a named preset.</text>
+    <line x1="14" y1="310" x2="666" y2="310" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="313.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="322.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">EE</text>
+    <text x="64" y="322.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Open MagiCAD IFC export dialog.</text>
+    <line x1="14" y1="334" x2="666" y2="334" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="337.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="346.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">ET</text>
+    <text x="64" y="346.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Open MagiCAD IFC storey management.</text>
+    <line x1="14" y1="358" x2="666" y2="358" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="361.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="370.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">ER</text>
+    <text x="64" y="370.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Open MagiCAD provisions for openings.</text>
+    <line x1="14" y1="382" x2="666" y2="382" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="385.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="394.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">EER</text>
+    <text x="64" y="394.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Open MagiCAD voids report management.</text>
+  </g>
+
+  <!-- ═══ Annotate ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="418" width="672" height="250" rx="8" fill="#481E69" stroke="#AF78D7" stroke-width="0.5"/>
+    <text x="14" y="433.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#D2B4EB">Annotate</text>
+    <line x1="14" y1="447" x2="666" y2="447" stroke="#AF78D7" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="451.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="460.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">R</text>
+    <text x="64" y="460.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Draw dimension text for the current drawing type.</text>
+    <line x1="14" y1="472" x2="666" y2="472" stroke="#AF78D7" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="475.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="484.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">RT</text>
+    <text x="64" y="484.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Place a MagiCAD revision mark.</text>
+    <line x1="14" y1="496" x2="666" y2="496" stroke="#AF78D7" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="499.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="508.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">RRT</text>
+    <text x="64" y="508.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Place a MagiCAD revision cloud.</text>
+    <line x1="14" y1="520" x2="666" y2="520" stroke="#AF78D7" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="523.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="532.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">RC</text>
+    <text x="64" y="532.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Place a MagiCAD cable mark.</text>
+    <line x1="14" y1="546" x2="666" y2="546" stroke="#AF78D7" stroke-width="0.4" opacity="0.3"/>
+    <text x="14" y="556.0" dominant-baseline="central" font-size="12" font-weight="600" fill="#D2B4EB" opacity="0.7">Comment</text>
+    <rect x="14" y="571.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="580.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">RA</text>
+    <text x="64" y="580.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Draw a polyline on the comment layer, reports length.</text>
+    <line x1="14" y1="592" x2="666" y2="592" stroke="#AF78D7" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="595.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="604.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">RS</text>
+    <text x="64" y="604.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Place multiline text on the comment layer.</text>
+    <line x1="14" y1="616" x2="666" y2="616" stroke="#AF78D7" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="619.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="628.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">RD</text>
+    <text x="64" y="628.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Draw a rectangle on the comment layer, reports area.</text>
+    <line x1="14" y1="640" x2="666" y2="640" stroke="#AF78D7" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="643.0" width="40" height="18" rx="4" fill="#481E69" stroke="#AF78D7" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="652.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#AF78D7">RF</text>
+    <text x="64" y="652.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#AF78D7">Draw a circle on the comment layer, reports diameter.</text>
+  </g>
+
+  <!-- ═══ Dialogs ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="676" width="672" height="154" rx="8" fill="#085041" stroke="#5DCAA5" stroke-width="0.5"/>
+    <text x="14" y="691.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#9FE1CB">Dialogs</text>
+    <line x1="14" y1="705" x2="666" y2="705" stroke="#5DCAA5" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="709.0" width="40" height="18" rx="4" fill="#085041" stroke="#5DCAA5" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="718.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5DCAA5">T</text>
+    <text x="64" y="718.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5DCAA5">Open MagiCAD properties for the current drawing type.</text>
+    <line x1="14" y1="730" x2="666" y2="730" stroke="#5DCAA5" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="733.0" width="40" height="18" rx="4" fill="#085041" stroke="#5DCAA5" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="742.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5DCAA5">TT</text>
+    <text x="64" y="742.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5DCAA5">Update drawing data for the current drawing type.</text>
+    <line x1="14" y1="754" x2="666" y2="754" stroke="#5DCAA5" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="757.0" width="40" height="18" rx="4" fill="#085041" stroke="#5DCAA5" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="766.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5DCAA5">TG</text>
+    <text x="64" y="766.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5DCAA5">Run MagiCAD cleanup utility.</text>
+    <line x1="14" y1="778" x2="666" y2="778" stroke="#5DCAA5" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="781.0" width="40" height="18" rx="4" fill="#085041" stroke="#5DCAA5" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="790.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5DCAA5">TR</text>
+    <text x="64" y="790.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5DCAA5">Open MagiCAD drawing preferences.</text>
+    <line x1="14" y1="802" x2="666" y2="802" stroke="#5DCAA5" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="805.0" width="40" height="18" rx="4" fill="#085041" stroke="#5DCAA5" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="814.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#5DCAA5">TTR</text>
+    <text x="64" y="814.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#5DCAA5">Open MagiCAD project settings.</text>
+  </g>
+
+</svg>

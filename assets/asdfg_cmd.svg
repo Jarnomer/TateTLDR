@@ -1,0 +1,179 @@
+<svg width="100%" viewBox="0 0 680 1122" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ═══ Mirror ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="4" width="672" height="370" rx="8" fill="#3A2673" stroke="#9E87E1" stroke-width="0.5"/>
+    <text x="14" y="19.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#C8BCF0">Mirror</text>
+    <line x1="14" y1="33" x2="666" y2="33" stroke="#9E87E1" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="37.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="46.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">A</text>
+    <text x="64" y="46.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Mirror selected objects with ortho enforced on.</text>
+    <line x1="14" y1="60" x2="666" y2="60" stroke="#9E87E1" stroke-width="0.4" opacity="0.3"/>
+    <text x="14" y="70.0" dominant-baseline="central" font-size="12" font-weight="600" fill="#C8BCF0" opacity="0.7">Circuit Diagram</text>
+    <rect x="14" y="85.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="94.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AS</text>
+    <text x="64" y="94.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Draw a MagiCAD circuit line.</text>
+    <line x1="14" y1="106" x2="666" y2="106" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="109.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="118.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AAS</text>
+    <text x="64" y="118.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Place a MagiCAD conductor connection.</text>
+    <line x1="14" y1="130" x2="666" y2="130" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="133.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="142.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AD</text>
+    <text x="64" y="142.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Place an exiting MagiCAD terminal node.</text>
+    <line x1="14" y1="154" x2="666" y2="154" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="157.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="166.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AF</text>
+    <text x="64" y="166.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Place an exiting MagiCAD relay contact.</text>
+    <line x1="14" y1="178" x2="666" y2="178" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="181.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="190.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AG</text>
+    <text x="64" y="190.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Place an exiting MagiCAD panel switch.</text>
+    <line x1="14" y1="202" x2="666" y2="202" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="205.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="214.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AR</text>
+    <text x="64" y="214.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Annotate an exiting MagiCAD relay.</text>
+    <line x1="14" y1="226" x2="666" y2="226" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="229.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="238.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AE</text>
+    <text x="64" y="238.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Define a MagiCAD device area.</text>
+    <line x1="14" y1="250" x2="666" y2="250" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="253.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="262.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AAE</text>
+    <text x="64" y="262.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Define a MagiCAD outside switchboard area.</text>
+    <line x1="14" y1="274" x2="666" y2="274" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="277.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="286.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AT</text>
+    <text x="64" y="286.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Open MagiCAD circuit page management.</text>
+    <line x1="14" y1="298" x2="666" y2="298" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="301.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="310.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AAT</text>
+    <text x="64" y="310.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Open MagiCAD circuit layout management.</text>
+    <line x1="14" y1="322" x2="666" y2="322" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="325.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="334.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AX</text>
+    <text x="64" y="334.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Open the MagiCAD component menu.</text>
+    <line x1="14" y1="346" x2="666" y2="346" stroke="#9E87E1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="349.0" width="40" height="18" rx="4" fill="#3A2673" stroke="#9E87E1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="358.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#9E87E1">AC</text>
+    <text x="64" y="358.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#9E87E1">Place a MagiCAD common part.</text>
+  </g>
+
+  <!-- ═══ Rotate ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="382" width="672" height="298" rx="8" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.5"/>
+    <text x="14" y="397.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#EECD80">Rotate</text>
+    <line x1="14" y1="411" x2="666" y2="411" stroke="#DCA23C" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="415.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="424.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">S</text>
+    <text x="64" y="424.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Rotate selected objects with ortho enforced on.</text>
+    <line x1="14" y1="438" x2="666" y2="438" stroke="#DCA23C" stroke-width="0.4" opacity="0.3"/>
+    <text x="14" y="448.0" dominant-baseline="central" font-size="12" font-weight="600" fill="#EECD80" opacity="0.7">Switchboard Schematic</text>
+    <rect x="14" y="463.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="472.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SS</text>
+    <text x="64" y="472.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Edit a switchboard schema row.</text>
+    <line x1="14" y1="484" x2="666" y2="484" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="487.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="496.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SD</text>
+    <text x="64" y="496.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Copy a switchboard schema row.</text>
+    <line x1="14" y1="508" x2="666" y2="508" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="511.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="520.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SF</text>
+    <text x="64" y="520.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Move a switchboard schema row.</text>
+    <line x1="14" y1="532" x2="666" y2="532" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="535.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="544.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SG</text>
+    <text x="64" y="544.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Delete a switchboard schema row.</text>
+    <line x1="14" y1="556" x2="666" y2="556" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="559.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="568.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SR</text>
+    <text x="64" y="568.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Renumber switchboard schema rows.</text>
+    <line x1="14" y1="580" x2="666" y2="580" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="583.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="592.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SA</text>
+    <text x="64" y="592.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Insert a switchboard schema row.</text>
+    <line x1="14" y1="604" x2="666" y2="604" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="607.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="616.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SSA</text>
+    <text x="64" y="616.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Insert a switchboard schema from floor plan.</text>
+    <line x1="14" y1="628" x2="666" y2="628" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="631.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="640.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">ST</text>
+    <text x="64" y="640.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Place a switchboard schema row symbol.</text>
+    <line x1="14" y1="652" x2="666" y2="652" stroke="#DCA23C" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="655.0" width="40" height="18" rx="4" fill="#5F3A0F" stroke="#DCA23C" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="664.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#DCA23C">SST</text>
+    <text x="64" y="664.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#DCA23C">Place a switchboard schema detail symbol.</text>
+  </g>
+
+  <!-- ═══ Clipboard ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="688" width="672" height="154" rx="8" fill="#0C4852" stroke="#46B9C3" stroke-width="0.5"/>
+    <text x="14" y="703.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#91DCE4">Clipboard</text>
+    <line x1="14" y1="717" x2="666" y2="717" stroke="#46B9C3" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="721.0" width="40" height="18" rx="4" fill="#0C4852" stroke="#46B9C3" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="730.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#46B9C3">D</text>
+    <text x="64" y="730.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#46B9C3">Copy selected objects.</text>
+    <line x1="14" y1="742" x2="666" y2="742" stroke="#46B9C3" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="745.0" width="40" height="18" rx="4" fill="#0C4852" stroke="#46B9C3" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="754.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#46B9C3">DF</text>
+    <text x="64" y="754.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#46B9C3">Copy selection to clipboard at origin point (0,0,0).</text>
+    <line x1="14" y1="766" x2="666" y2="766" stroke="#46B9C3" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="769.0" width="40" height="18" rx="4" fill="#0C4852" stroke="#46B9C3" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="778.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#46B9C3">DDF</text>
+    <text x="64" y="778.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#46B9C3">Copy selection to clipboard at picked base point.</text>
+    <line x1="14" y1="790" x2="666" y2="790" stroke="#46B9C3" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="793.0" width="40" height="18" rx="4" fill="#0C4852" stroke="#46B9C3" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="802.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#46B9C3">DG</text>
+    <text x="64" y="802.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#46B9C3">Paste from clipboard at origin point (0,0,0).</text>
+    <line x1="14" y1="814" x2="666" y2="814" stroke="#46B9C3" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="817.0" width="40" height="18" rx="4" fill="#0C4852" stroke="#46B9C3" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="826.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#46B9C3">DDG</text>
+    <text x="64" y="826.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#46B9C3">Paste from clipboard at picked insertion point.</text>
+  </g>
+
+  <!-- ═══ Move ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="850" width="672" height="130" rx="8" fill="#72243E" stroke="#ED93B1" stroke-width="0.5"/>
+    <text x="14" y="865.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#F4C0D1">Move</text>
+    <line x1="14" y1="879" x2="666" y2="879" stroke="#ED93B1" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="883.0" width="40" height="18" rx="4" fill="#72243E" stroke="#ED93B1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="892.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#ED93B1">F</text>
+    <text x="64" y="892.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#ED93B1">Move selected objects.</text>
+    <line x1="14" y1="904" x2="666" y2="904" stroke="#ED93B1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="907.0" width="40" height="18" rx="4" fill="#72243E" stroke="#ED93B1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="916.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#ED93B1">FF</text>
+    <text x="64" y="916.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#ED93B1">Move selection by Z displacement value.</text>
+    <line x1="14" y1="928" x2="666" y2="928" stroke="#ED93B1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="931.0" width="40" height="18" rx="4" fill="#72243E" stroke="#ED93B1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="940.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#ED93B1">FG</text>
+    <text x="64" y="940.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#ED93B1">Move MagiCAD annotation text with ortho off.</text>
+    <line x1="14" y1="952" x2="666" y2="952" stroke="#ED93B1" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="955.0" width="40" height="18" rx="4" fill="#72243E" stroke="#ED93B1" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="964.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#ED93B1">FFG</text>
+    <text x="64" y="964.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#ED93B1">Move MagiCAD attribute text with ortho off.</text>
+  </g>
+
+  <!-- ═══ Erase ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="988" width="672" height="130" rx="8" fill="#732812" stroke="#EB914B" stroke-width="0.5"/>
+    <text x="14" y="1003.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#F5C38C">Erase</text>
+    <line x1="14" y1="1017" x2="666" y2="1017" stroke="#EB914B" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="1021.0" width="40" height="18" rx="4" fill="#732812" stroke="#EB914B" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="1030.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#EB914B">G</text>
+    <text x="64" y="1030.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#EB914B">Erase selected objects.</text>
+    <line x1="14" y1="1042" x2="666" y2="1042" stroke="#EB914B" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="1045.0" width="40" height="18" rx="4" fill="#732812" stroke="#EB914B" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="1054.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#EB914B">GG</text>
+    <text x="64" y="1054.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#EB914B">Erase the last created object.</text>
+    <line x1="14" y1="1066" x2="666" y2="1066" stroke="#EB914B" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="1069.0" width="40" height="18" rx="4" fill="#732812" stroke="#EB914B" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="1078.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#EB914B">GB</text>
+    <text x="64" y="1078.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#EB914B">Run MagiCAD garbage layer clear.</text>
+    <line x1="14" y1="1090" x2="666" y2="1090" stroke="#EB914B" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="1093.0" width="40" height="18" rx="4" fill="#732812" stroke="#EB914B" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="1102.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#EB914B">GR</text>
+    <text x="64" y="1102.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#EB914B">Erase objects from comment layer in the current view.</text>
+  </g>
+
+</svg>

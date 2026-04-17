@@ -1,0 +1,150 @@
+<svg width="100%" viewBox="0 0 680 954" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ═══ Reserved ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="4" width="672" height="34" rx="8" fill="#16306E" stroke="#6E94E4" stroke-width="0.5"/>
+    <text x="14" y="19.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#AFC6F2">Reserved</text>
+    <line x1="14" y1="33" x2="666" y2="33" stroke="#6E94E4" stroke-width="0.4" opacity="0.35"/>
+  </g>
+
+  <!-- ═══ Xref ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="46" width="672" height="130" rx="8" fill="#791F1F" stroke="#F09595" stroke-width="0.5"/>
+    <text x="14" y="61.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#F7C1C1">Xref</text>
+    <line x1="14" y1="75" x2="666" y2="75" stroke="#F09595" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="79.0" width="40" height="18" rx="4" fill="#791F1F" stroke="#F09595" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="88.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#F09595">X</text>
+    <text x="64" y="88.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#F09595">Reload a picked external reference.</text>
+    <line x1="14" y1="100" x2="666" y2="100" stroke="#F09595" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="103.0" width="40" height="18" rx="4" fill="#791F1F" stroke="#F09595" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="112.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#F09595">XX</text>
+    <text x="64" y="112.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#F09595">Open or close the external references palette.</text>
+    <line x1="14" y1="124" x2="666" y2="124" stroke="#F09595" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="127.0" width="40" height="18" rx="4" fill="#791F1F" stroke="#F09595" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="136.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#F09595">XZ</text>
+    <text x="64" y="136.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#F09595">Unload a picked external reference.</text>
+    <line x1="14" y1="148" x2="666" y2="148" stroke="#F09595" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="151.0" width="40" height="18" rx="4" fill="#791F1F" stroke="#F09595" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="160.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#F09595">XC</text>
+    <text x="64" y="160.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#F09595">Open a picked external reference for editing.</text>
+  </g>
+
+  <!-- ═══ Cable Tray ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="184" width="672" height="322" rx="8" fill="#412378" stroke="#A582E4" stroke-width="0.5"/>
+    <text x="14" y="199.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#CDB9F2">Cable Tray</text>
+    <line x1="14" y1="213" x2="666" y2="213" stroke="#A582E4" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="217.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="226.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">C</text>
+    <text x="64" y="226.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Stretch a MagiCAD cable tray.</text>
+    <line x1="14" y1="238" x2="666" y2="238" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="241.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="250.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CC</text>
+    <text x="64" y="250.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Break a MagiCAD cable tray or conduit.</text>
+    <line x1="14" y1="262" x2="666" y2="262" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="265.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="274.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CX</text>
+    <text x="64" y="274.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Create a MagiCAD cable tray crossing.</text>
+    <line x1="14" y1="286" x2="666" y2="286" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="289.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="298.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CT</text>
+    <text x="64" y="298.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Edit MagiCAD cable tray width.</text>
+    <line x1="14" y1="310" x2="666" y2="310" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="313.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="322.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CV</text>
+    <text x="64" y="322.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Hide MagiCAD cables.</text>
+    <line x1="14" y1="334" x2="666" y2="334" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="337.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="346.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CCV</text>
+    <text x="64" y="346.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Unhide MagiCAD cables.</text>
+    <line x1="14" y1="360" x2="666" y2="360" stroke="#A582E4" stroke-width="0.4" opacity="0.3"/>
+    <text x="14" y="370.0" dominant-baseline="central" font-size="12" font-weight="600" fill="#CDB9F2" opacity="0.7">Draw New</text>
+    <rect x="14" y="385.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="394.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CA</text>
+    <text x="64" y="394.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Draw a MagiCAD cable tray.</text>
+    <line x1="14" y1="406" x2="666" y2="406" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="409.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="418.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CS</text>
+    <text x="64" y="418.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Draw a MagiCAD conduit.</text>
+    <line x1="14" y1="430" x2="666" y2="430" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="433.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="442.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CD</text>
+    <text x="64" y="442.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Draw a MagiCAD busbar.</text>
+    <line x1="14" y1="454" x2="666" y2="454" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="457.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="466.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CF</text>
+    <text x="64" y="466.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Draw a MagiCAD electrical cable.</text>
+    <line x1="14" y1="478" x2="666" y2="478" stroke="#A582E4" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="481.0" width="40" height="18" rx="4" fill="#412378" stroke="#A582E4" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="490.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#A582E4">CG</text>
+    <text x="64" y="490.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#A582E4">Draw a MagiCAD telecom cable.</text>
+  </g>
+
+  <!-- ═══ Symbol ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="514" width="672" height="394" rx="8" fill="#69340C" stroke="#E49B41" stroke-width="0.5"/>
+    <text x="14" y="529.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#F2C882">Symbol</text>
+    <line x1="14" y1="543" x2="666" y2="543" stroke="#E49B41" stroke-width="0.4" opacity="0.35"/>
+    <rect x="14" y="547.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="556.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">V</text>
+    <text x="64" y="556.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Set a MagiCAD device symbol elevation.</text>
+    <line x1="14" y1="568" x2="666" y2="568" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="571.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="580.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VV</text>
+    <text x="64" y="580.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Move a MagiCAD device symbol, especially 3D symbol.</text>
+    <line x1="14" y1="594" x2="666" y2="594" stroke="#E49B41" stroke-width="0.4" opacity="0.3"/>
+    <text x="14" y="604.0" dominant-baseline="central" font-size="12" font-weight="600" fill="#F2C882" opacity="0.7">Switchboard</text>
+    <rect x="14" y="619.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="628.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VB</text>
+    <text x="64" y="628.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Open MagiCAD switchboard properties dialog.</text>
+    <line x1="14" y1="640" x2="666" y2="640" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="643.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="652.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VVB</text>
+    <text x="64" y="652.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Update switchboard schema from plan.</text>
+    <line x1="14" y1="664" x2="666" y2="664" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="667.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="676.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VC</text>
+    <text x="64" y="676.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Place a MagiCAD switchboard border.</text>
+    <line x1="14" y1="688" x2="666" y2="688" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="691.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="700.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VVC</text>
+    <text x="64" y="700.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Define a MagiCAD switchboard area.</text>
+    <line x1="14" y1="712" x2="666" y2="712" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="715.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="724.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VT</text>
+    <text x="64" y="724.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Run MagiCAD switchboard check dialog.</text>
+    <line x1="14" y1="736" x2="666" y2="736" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="739.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="748.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VVT</text>
+    <text x="64" y="748.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Open MagiCAD switchboard management.</text>
+    <line x1="14" y1="762" x2="666" y2="762" stroke="#E49B41" stroke-width="0.4" opacity="0.3"/>
+    <text x="14" y="772.0" dominant-baseline="central" font-size="12" font-weight="600" fill="#F2C882" opacity="0.7">New</text>
+    <rect x="14" y="787.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="796.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VA</text>
+    <text x="64" y="796.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Place a MagiCAD luminaire.</text>
+    <line x1="14" y1="808" x2="666" y2="808" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="811.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="820.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VS</text>
+    <text x="64" y="820.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Place a MagiCAD socket.</text>
+    <line x1="14" y1="832" x2="666" y2="832" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="835.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="844.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VD</text>
+    <text x="64" y="844.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Place a MagiCAD switch device.</text>
+    <line x1="14" y1="856" x2="666" y2="856" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="859.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="868.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VF</text>
+    <text x="64" y="868.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Place a MagiCAD equipment device.</text>
+    <line x1="14" y1="880" x2="666" y2="880" stroke="#E49B41" stroke-width="0.2" opacity="0.12"/>
+    <rect x="14" y="883.0" width="40" height="18" rx="4" fill="#69340C" stroke="#E49B41" stroke-width="0.3" opacity="0.6"/>
+    <text x="34.0" y="892.0" text-anchor="middle" dominant-baseline="central" font-size="10" font-weight="600" fill="#E49B41">VG</text>
+    <text x="64" y="892.0" dominant-baseline="central" font-size="11.5" font-weight="400" fill="#E49B41">Place a MagiCAD telecom socket.</text>
+  </g>
+
+  <!-- ═══ Reserved ═══ -->
+  <g font-family='"Anthropic Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'>
+    <rect x="4" y="916" width="672" height="34" rx="8" fill="#085041" stroke="#5DCAA5" stroke-width="0.5"/>
+    <text x="14" y="931.0" dominant-baseline="central" font-size="14" font-weight="600" fill="#9FE1CB">Reserved</text>
+    <line x1="14" y1="945" x2="666" y2="945" stroke="#5DCAA5" stroke-width="0.4" opacity="0.35"/>
+  </g>
+
+</svg>
