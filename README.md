@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-AutoCAD-blue?style=for-the-badge" alt="platform">
   <img src="https://img.shields.io/badge/Plugin-MagiCAD-orange?style=for-the-badge" alt="plugin">
-  <img src="https://img.shields.io/github/languages/top/Jarnomer/acad-lisp?style=for-the-badge&logo=autohotkey&label=%20&labelColor=gray&color=lightblue" alt="GitHub top language">
-  <img src="https://img.shields.io/github/last-commit/Jarnomer/acad-lisp/main?style=for-the-badge&color=red" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/languages/top/Jarnomer/tatetldr?style=for-the-badge&logo=autohotkey&label=%20&labelColor=gray&color=lightblue" alt="GitHub top language">
+  <img src="https://img.shields.io/github/last-commit/Jarnomer/tatetldr/main?style=for-the-badge&color=red" alt="GitHub last commit">
 </p>
 
 <div align="center">

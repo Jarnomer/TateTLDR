@@ -243,8 +243,8 @@
              "_COLOR" *COMMENT-LAYER-COLOR* ""
              "_PLOT" "_NO" ""
              "")
-    (setvar "CLAYER" *COMMENT-LAYER*)
   )
+  (setvar "CLAYER" *COMMENT-LAYER*)
 )
 
 ;;; Runs an AutoCAD command on the comment layer, then restores the
